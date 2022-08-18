@@ -11,7 +11,9 @@ Flappy bird game in Python and Pygame for Windows.
 - Terrain Generation
 
 ## How to run
-- main.py : launch the game
+```
+python main.py
+```
 
 ## Install Dependencies
 ```
