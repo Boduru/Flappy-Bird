@@ -10,14 +10,14 @@ Flappy bird game in Python and Pygame for Windows.
 - Player's Physics
 - Terrain Generation
 
-## Run
-```
-python main.py
-```
-
 ## Install Dependencies
 ```
 pip install pygame
+```
+
+## Run
+```
+python main.py
 ```
 
 ## Requirements
