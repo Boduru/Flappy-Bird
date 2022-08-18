@@ -1,6 +1,10 @@
 # flappy-bird-game
 Flappy bird game in Python and Pygame for Windows.
 
+<p align="center">
+  <img width="200" height="auto" src="https://github.com/JimPavan/Flappy-Bird/blob/master/screenshot.png">
+</p>
+
 ## Mechanics Implemented
 - Collision Detection
 - Player's Physics
