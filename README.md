@@ -1,4 +1,4 @@
-# flappy-bird-game
+# Flappy Bird
 Flappy bird game in Python and Pygame for Windows.
 
 <p align="center">
